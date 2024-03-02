@@ -1,0 +1,12 @@
+ER
+PgR
+HER2
+TrippleNegative
+ChemoGrade
+LNStatus
+original_shape_Flatness
+original_firstorder_90Percentile
+original_firstorder_InterquartileRange 
+original_firstorder_Minimum
+original_glszm_GrayLevelNonUniformity
+original_glszm_SmallAreaEmphasis

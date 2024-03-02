@@ -1,0 +1,15 @@
+ER
+PgR
+HER2
+TrippleNegative
+ChemoGrade
+HistologyType
+LNStatus
+original_shape_Flatness
+original_firstorder_10Percentile
+original_firstorder_90Percentile
+original_firstorder_InterquartileRange
+original_firstorder_Minimum
+original_gldm_SmallDependenceEmphasis
+original_glszm_SizeZoneNonUniformityNormalized
+original_glszm_SmallAreaEmphasis

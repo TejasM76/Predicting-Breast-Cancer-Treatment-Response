@@ -1,0 +1,15 @@
+ER
+PgR
+TrippleNegative
+ChemoGrade
+HistologyType
+LNStatus
+TumourStage
+original_shape_Elongation
+original_firstorder_10Percentile
+original_firstorder_90Percentile
+original_firstorder_Skewness
+original_gldm_DependenceEntropy
+original_glszm_GrayLevelNonUniformityNormalized
+original_glszm_SizeZoneNonUniformityNormalized
+original_glszm_SmallAreaEmphasis
